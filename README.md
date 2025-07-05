@@ -21,3 +21,6 @@ Terminal formatting for better readability
 HOW IT WORKS!!
 TOPSIS chooses the alternative of shortest the Euclidean distance from the ideal solution and greatest distance from the negative ideal solution. 
 for more information visit: https://www.geeksforgeeks.org/data-science/topsis-method-for-multiple-criteria-decision-making-mcdm/
+
+Note from me
+The code is super readable and you can understand what the hell is going on without having to go through tons of documentation!
